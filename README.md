@@ -1,1 +1,1 @@
-# simple Project employees management
+# Simple project employees management
